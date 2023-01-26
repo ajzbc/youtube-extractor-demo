@@ -60,7 +60,7 @@
         <span class="flex mb-1">
           <h2 class="text-xl font-extrabold">Basic Data</h2>
         </span>
-        <div class="flex">
+        <div class="flex justify-between">
           <div>
             <p class="font-bold">
               Title: <span class="font-mono font-normal"
